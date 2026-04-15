@@ -1,0 +1,4 @@
+fixture_date,home_team,away_team,prob_home_win,prob_draw,prob_away_win,predicted_result,confidence_level
+2026-04-25,Burnley,Crystal Palace,0.20699792092691127,0.18562232698594675,0.6073797520871419,Away Win,6
+2026-04-25,Arsenal,Chelsea,0.6004474063333836,0.20649888396146426,0.19305370970515223,Home Win,6
+2026-04-25,Liverpool,Man City,0.34530284732320365,0.23744150673148973,0.41725564594530673,Away Win,4
